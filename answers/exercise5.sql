@@ -1,0 +1,1 @@
+Select * FROM Students s WHERE Country in ('Sint Maarten', 'Haiti');

@@ -1,0 +1,1 @@
+SELECT * FROM Students s WHERE City LIKE '_a%';
